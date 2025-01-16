@@ -25,8 +25,28 @@ A React-based memory card matching game with customizable settings and interacti
 - Vite
 - ESLint
 
-## 🚀 Installation
+## 📥 Installation
 
-1. Clone the repository:
+### Prerequisites
+- Node.js (v14+)
+- npm (v6+)
+
+### Setup Steps
 ```sh
+# Clone repository
 git clone https://github.com/NILESH211807/Memory-Game.git
+
+# Navigate to project
+cd Memory-Game
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+ # Build for production
+npm run build   
+
+# Preview build
+npm run preview  
