@@ -1,26 +1,32 @@
-# Memory Game
+# Memory Card Game
 
-A React-based memory card matching game with customizable grid size and move limits.
+A React-based memory card matching game with customizable settings and interactive gameplay.
 
-## Features
+![Memory Game Preview](preview.png)
 
-- Adjustable grid size (up to 10x10)
-- Optional move limit setting
-- Score tracking
-- Responsive design
-- Game settings panel
-- Win/lose conditions
+## 🎮 Demo
+[Live Demo](https://memory-game-ednfp9caj-nilesh211807s-projects.vercel.app/)
 
-## Technologies Used
+## ✨ Features
 
-- React
+- Dynamic grid sizing (2x2 up to 10x10)
+- Customizable move limits
+- Score tracking system
+- Responsive design for all devices
+- Interactive card flipping animations
+- Win/lose state management
+- Game settings customization
+
+## 🛠️ Tech Stack
+
+- React.js
 - Tailwind CSS
+- Context API
 - Vite
 - ESLint
 
-## Getting Started
+## 🚀 Installation
 
-1. Clone the repository
-2. Install dependencies:
+1. Clone the repository:
 ```sh
-npm install
+git clone https://github.com/NILESH211807/Memory-Game.git
